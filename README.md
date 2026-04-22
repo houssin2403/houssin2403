@@ -27,7 +27,7 @@
 ```python
 houssin = {
     "role"       : "Data Growth Specialist @ Yucca Labs",
-    "location"   : "Lyon, France 🇫🇷  ·  Algeria 🇩🇿",
+    "location"   : "Nimes, France 🇫🇷  ·  Algeria 🇩🇿",
     "languages"  : ["French (native)", "Arabic (native)", "English (working)"],
     "focus"      : ["Data Engineering", "AI Orchestration", "SEO Analytics", "Growth"],
     "studying"   : "Applied Mathematics L3 → MSc Data Science (2026)",
@@ -61,8 +61,8 @@ Instant Scraper → Python merge → Claude AI cleanup → phone_add.py
 | Béjaïa + Tizi Ouzou + Boumerdès | 54 | ✅ Delivered |
 | Tlemcen + Sétif + Batna | 45 | ✅ Delivered |
 | Mostaganem + Tipaza + Annaba | 22 | ✅ Delivered |
-| Oran + Constantine | 48 | 🔄 In review |
-| Chlef + Médéa + Bouira | 42 | 🔄 In progress |
+| Oran + Constantine | 48 | ✅ Delivered |
+| Chlef + Médéa + Bouira | 42 | ✅ Delivered |
 
 ---
 
@@ -96,12 +96,6 @@ Raw GSC export → cohort analysis → cannibalization detection
 → prioritized action plan → implementation roadmap
 ```
 
-| Metric | Period A | Period B | Delta |
-|---|---|---|---|
-| Avg. position | 8.12 | 6.83 | **−1.29 pts 🚀** |
-| Impressions/day | 9,652 | 10,479 | +8.6% ✅ |
-| Clicks/day | 244 | 259 | +5.9% ✅ |
-| Global CTR | 2.53% | 2.47% | −0.06 pts ⚠️ |
 
 **Roadmap delivered:**
 - 🔴 Static landing pages per wilaya/commune (est. +20–40% CTR)
