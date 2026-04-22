@@ -13,8 +13,8 @@
 
 *Building data pipelines and growth systems that ship — not just notebooks.*
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssin-dris](https://www.linkedin.com/in/l-houssin-dris-25b6222b0/))
-[![Portfolio]([https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://houssin-dris.dev](https://houssinportfolio.netlify.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l-houssin-dris-25b6222b0/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://houssinportfolio.netlify.app/)
 [![3ersi.com](https://img.shields.io/badge/3ersi.com-6C63FF?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0ibm9uZSIvPjwvc3ZnPg==&logoColor=white)](https://3ersi.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:houssindris2403@gmail.com)
 
