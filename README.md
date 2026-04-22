@@ -164,17 +164,7 @@ Zero broken links during migration. Zero manual intervention after setup.
 
 ---
 
-## `$ cat ./stats`
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=houssin-dris&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=a78bfa&icon_color=6c63ff&text_color=9090a8)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=houssin-dris&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=a78bfa&text_color=9090a8)
-
-</div>
-
----
 
 ## `$ cat ./currently`
 
