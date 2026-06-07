@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝    ╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝
 ```
 
-### Data Specialist · Growth Engineer · ML & Optimization · Futur MSc Data Science
+### Data Specialist · Growth Engineer · ML & Optimization 
 
 *Building data pipelines, optimization tools, and growth systems that ship — not just notebooks.*
 
